@@ -10,7 +10,8 @@ Content-Type: application/json
 
 {
   "name": "walk dog",
-  "isComplete": true
+  "isComplete": true,
+  "secret": "titok"
 }
 
 ###
